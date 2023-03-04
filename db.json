@@ -56,7 +56,7 @@
       "picto": "URL",
       "body": "Lorem Ipsum 1",
       "rating": 4,
-      "matching_symptoms": ["Anxiety and nervousness", "Headache"]
+      "matching_symptoms": "Anxiety and nervousness"
     },
     {
       "id": 2,
