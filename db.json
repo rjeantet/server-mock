@@ -22,7 +22,7 @@
       "id": 4,
       "title": "Headache",
       "body": "Lorem Ipsum 4",
-      "matching_remedies": "Aloe Vera Gel"
+      "matching_remedies": "Garlic"
     },
     {
       "id": 5,
@@ -56,7 +56,7 @@
       "picto": "URL",
       "body": "Lorem Ipsum 1",
       "rating": 4,
-      "matching_symptoms": "Anxiety and nervousness"
+      "matching_symptoms": ["Anxiety and nervousness", "headache"]
     },
     {
       "id": 2,
@@ -72,7 +72,7 @@
       "picto": "URL",
       "body": "Lorem Ipsum 1",
       "rating": 2,
-      "matching_symptoms": "Headache"
+      "matching_symptoms": "Vomiting"
     }
   ]
 }
