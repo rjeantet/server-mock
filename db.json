@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Anxiety and nervousness",
       "body": "Lorem Ipsum 1",
-      "matching_remedies": "Garlic"
+      "matching_remedies": ["Garlic", "Ginger"]
     },
     {
       "id": 2,
