@@ -4,53 +4,49 @@
       "id": 1,
       "title": "Anxiety and nervousness",
       "body": "Lorem Ipsum 1",
-      "matching_remedies": ["diarrhea", "Headache", "nose swelling"]
+      "matching_remedies": "Garlic"
     },
     {
       "id": 2,
       "title": "knee pain",
-      "body": "Lorem Ipsum 2"
+      "body": "Lorem Ipsum 2",
+      "matching_remedies": "Ginger"
     },
     {
       "id": 3,
       "title": "Lip swelling",
-      "body": "Lorem Ipsum 3"
+      "body": "Lorem Ipsum 3",
+      "matching_remedies": "Aloe Vera Gel"
     },
     {
       "id": 4,
       "title": "Headache",
-      "body": "Lorem Ipsum 4"
+      "body": "Lorem Ipsum 4",
+      "matching_remedies": "Aloe Vera Gel"
     },
     {
       "id": 5,
       "title": "Vomiting",
-      "body": "Lorem Ipsum 5"
+      "body": "Lorem Ipsum 5",
+      "matching_remedies": "Aloe Vera Gel"
     },
     {
       "id": 6,
       "title": "Depression",
-      "body": "Lorem Ipsum 1"
+      "body": "Lorem Ipsum 1",
+      "matching_remedies": "Aloe Vera Gel"
     },
     {
       "id": 7,
       "title": "Shoulder pain",
-      "body": "Lorem Ipsum 2"
+      "body": "Lorem Ipsum 2",
+      "matching_remedies": "Aloe Vera Gel"
     },
     {
       "id": 8,
       "title": "nose swelling",
-      "body": "Lorem Ipsum 3"
-    },
-    {
-      "id": 9,
-      "title": "heartache",
-      "body": "Lorem Ipsum 4"
-    },
-    {
-      "id": 10,
-      "title": "diarrhea",
-      "body": "Lorem Ipsum 5",
-      "matching_remedies": ["diarrhea", "Headache", "nose swelling"]
+      "body": "Lorem Ipsum 3",
+      "matching_remedies": "Aloe Vera Gel"
     }
   ],
   "remedies": [
@@ -60,7 +56,7 @@
       "picto": "URL",
       "body": "Lorem Ipsum 1",
       "rating": 4,
-      "matching_symptoms": ["diarrhea", "Headache", "nose swelling"]
+      "matching_symptoms": "Anxiety and nervousness"
     },
     {
       "id": 2,
@@ -68,7 +64,7 @@
       "picto": "URL",
       "body": "Lorem Ipsum 1",
       "rating": 5,
-      "matching_symptoms": ["Headache", "Depression", "Shoulder pain"]
+      "matching_symptoms": "knee pain"
     },
     {
       "id": 3,
@@ -76,7 +72,7 @@
       "picto": "URL",
       "body": "Lorem Ipsum 1",
       "rating": 2,
-      "matching_symptoms": ["Shoulder pain", "Vomiting", "knee pain"]
+      "matching_symptoms": "Headache"
     }
   ]
 }
