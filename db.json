@@ -10,7 +10,7 @@
       "id": 2,
       "title": "Knee pain",
       "body": "Lorem Ipsum 2",
-      "matching_remedies": "Ginger"
+      "matching_remedies": ["Ginger"]
     },
     {
       "id": 3,
