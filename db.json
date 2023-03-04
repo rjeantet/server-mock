@@ -4,11 +4,11 @@
       "id": 1,
       "title": "Anxiety and nervousness",
       "body": "Lorem Ipsum 1",
-      "matching_remedies": ["Garlic", "Ginger"]
+      "matching_remedies": ["Garlic", "HTP5"]
     },
     {
       "id": 2,
-      "title": "knee pain",
+      "title": "Knee pain",
       "body": "Lorem Ipsum 2",
       "matching_remedies": "Ginger"
     },
@@ -28,25 +28,25 @@
       "id": 5,
       "title": "Vomiting",
       "body": "Lorem Ipsum 5",
-      "matching_remedies": "Aloe Vera Gel"
+      "matching_remedies": "Aloe Vera 1"
     },
     {
       "id": 6,
       "title": "Depression",
       "body": "Lorem Ipsum 1",
-      "matching_remedies": "Aloe Vera Gel"
+      "matching_remedies": "Aloe Vera 2"
     },
     {
       "id": 7,
       "title": "Shoulder pain",
       "body": "Lorem Ipsum 2",
-      "matching_remedies": "Aloe Vera Gel"
+      "matching_remedies": "Aloe Vera 3"
     },
     {
       "id": 8,
-      "title": "nose swelling",
+      "title": "Nose swelling",
       "body": "Lorem Ipsum 3",
-      "matching_remedies": "Aloe Vera Gel"
+      "matching_remedies": "Aloe Vera 4"
     }
   ],
   "remedies": [
@@ -56,7 +56,7 @@
       "picto": "URL",
       "body": "Lorem Ipsum 1",
       "rating": 4,
-      "matching_symptoms": ["Anxiety and nervousness", "headache"]
+      "matching_symptoms": ["Anxiety and nervousness", "Headache"]
     },
     {
       "id": 2,
@@ -64,7 +64,7 @@
       "picto": "URL",
       "body": "Lorem Ipsum 1",
       "rating": 5,
-      "matching_symptoms": "knee pain"
+      "matching_symptoms": "Knee pain"
     },
     {
       "id": 3,
@@ -72,7 +72,16 @@
       "picto": "URL",
       "body": "Lorem Ipsum 1",
       "rating": 2,
-      "matching_symptoms": "Vomiting"
+      "matching_symptoms": "Lip swelling"
+    },
+    {
+      "id": 4,
+      "title": "HTP5",
+      "picto": "URL",
+      "body": "Lorem Ipsum 1",
+      "rating": 2,
+      "matching_symptoms": "Anxiety and nervousness"
     }
+    
   ]
 }
