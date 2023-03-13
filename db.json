@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Anxiety and nervousness",
       "body": "Lorem Ipsum 1",
-      "matching_remedies": ["Garlic", "HTP5"]
+      "matching_remedies": ["Centella Asiatica", "Narrow Leaf Purple-Coneflower"]
     },
     {
       "id": 2,
@@ -22,7 +22,7 @@
       "id": 4,
       "title": "Headache",
       "body": "Lorem Ipsum 4",
-      "matching_remedies": "Garlic"
+      "matching_remedies": "Centella Asiatica"
     },
     {
       "id": 5,
@@ -76,7 +76,7 @@
     },
     {
       "id": 4,
-      "title": "Narrow Leaf Purple-Coneflower	",
+      "title": "Narrow Leaf Purple-Coneflower",
       "picto": "URL",
       "body": "Lorem Ipsum 1",
       "rating": 2,
