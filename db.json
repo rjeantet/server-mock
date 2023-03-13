@@ -88,16 +88,16 @@
     {
     "_id" : "01548786876879",            
     "remedyName": "Centella asiatica", 
-    "symptoms": ['headache','toothache','zero motivation for coding'],
-    "ratings": ['0wfe1548786876879', '1wfe1548786876870'],
+    "symptoms": ["headache","toothache","zero motivation for coding"],
+    "ratings": ["0wfe1548786876879", "1wfe1548786876870"],
     "ratingAverage": 3.5,            
     "totalNumberofRatings": 53  
     },
     {
-    "_id" : '015487868779',            
-    "remedyName": 'Ginger', 
-    "symptoms": ['headache','toothache','zero motivation for coding'],
-    "ratings": ['0wfe154878876879','1wfe154876876870']
+    "_id" : "015487868779",            
+    "remedyName": "Ginger", 
+    "symptoms": ["headache","toothache","zero motivation for coding"],
+    "ratings": ["0wfe154878876879","1wfe154876876870"]
     "ratingAverage": 4,            
     "totalNumberofRatings": 401  
 }
