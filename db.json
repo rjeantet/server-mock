@@ -97,7 +97,7 @@
     "_id" : "015487868779",            
     "remedyName": "Ginger", 
     "symptoms": ["headache","toothache","zero motivation for coding"],
-    "ratings": ["0wfe154878876879","1wfe154876876870"]
+    "ratings": ["0wfe154878876879","1wfe154876876870"],
     "ratingAverage": 4,            
     "totalNumberofRatings": 401  
     }
